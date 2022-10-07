@@ -1,3 +1,5 @@
-test('1 + 1 은 2일겁니다.', () => {
-    expect(1 + 1).toEqual(2);
-});
+
+const sum = require("./test1");
+test('2+2=', () => {
+    expect(sum(2,2)).toBe(4);
+  });
