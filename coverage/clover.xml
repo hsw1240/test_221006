@@ -1,23 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1665117731481" clover="3.2.0">
-  <project timestamp="1665117731482" name="All files">
-    <metrics statements="11" coveredstatements="11" conditionals="8" coveredconditionals="7" methods="2" coveredmethods="2" elements="21" coveredelements="20" complexity="0" loc="11" ncloc="11" packages="1" files="2" classes="2"/>
-    <file name="test1.js" path="E:\test_221006\test_221006\test1.js">
+<coverage generated="1665131304433" clover="3.2.0">
+  <project timestamp="1665131304433" name="All files">
+    <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1" elements="3" coveredelements="3" complexity="0" loc="2" ncloc="2" packages="1" files="1" classes="1"/>
+    <file name="main.js" path="E:\test_221006\test_221006\main.js">
       <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
-      <line num="2" count="1" type="stmt"/>
+      <line num="2" count="3" type="stmt"/>
       <line num="4" count="1" type="stmt"/>
-    </file>
-    <file name="validation.js" path="E:\test_221006\test_221006\validation.js">
-      <metrics statements="9" coveredstatements="9" conditionals="8" coveredconditionals="7" methods="1" coveredmethods="1"/>
-      <line num="1" count="1" type="stmt"/>
-      <line num="3" count="7" type="cond" truecount="1" falsecount="1"/>
-      <line num="5" count="7" type="cond" truecount="2" falsecount="0"/>
-      <line num="6" count="2" type="stmt"/>
-      <line num="7" count="5" type="cond" truecount="2" falsecount="0"/>
-      <line num="8" count="1" type="stmt"/>
-      <line num="9" count="4" type="cond" truecount="2" falsecount="0"/>
-      <line num="10" count="1" type="stmt"/>
-      <line num="13" count="3" type="stmt"/>
     </file>
   </project>
 </coverage>
